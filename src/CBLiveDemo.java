@@ -84,8 +84,8 @@ public class CBLiveDemo {
                         // than pure black itself. When I hear people say ‘there is no black in nature’, I sometimes
                         // think, ‘There is no real black in colors either’. However, you must beware of falling into
                         // the error of thinking that the colorists do not use black, for of course as soon as an
-                        // element of blue, red, or yellow is mixed with black, it becomes a gray, namely, a dark, r
-                        // eddish, yellowish, or bluish gray.”
+                        // element of blue, red, or yellow is mixed with black, it becomes a gray, namely, a dark,
+                        // reddish, yellowish, or bluish gray.”
                         // Vincent van Gogh (Letter to Theo van Gogh, June 1884)
                         mainWindow.window.pixelData[base] = 0x000000;
                         System.err.println("Empty for some reason " + future.getStatus().getMessage());
